@@ -1,0 +1,14 @@
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.AssemblyInfoInputs.cache
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.AssemblyInfo.cs
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.csproj.CoreCompileInputs.cache
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\bin\Debug\net8.0\tipos_de_produtos.exe
+C:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\bin\Debug\net8.0\tipos_de_produtos.deps.json
+C:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\bin\Debug\net8.0\tipos_de_produtos.runtimeconfig.json
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\bin\Debug\net8.0\tipos_de_produtos.dll
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\bin\Debug\net8.0\tipos_de_produtos.pdb
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.dll
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\refint\tipos_de_produtos.dll
+c:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.pdb
+C:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\tipos_de_produtos.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\estudo_csharp\tipos_de_produtos\obj\Debug\net8.0\ref\tipos_de_produtos.dll
